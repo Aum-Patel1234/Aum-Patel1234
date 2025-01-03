@@ -1,19 +1,4 @@
-## Hi there 👋
 
-<!--
-**Aum-Patel1234/Aum-Patel1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="center">Hi 👋! My name is Aum Patel.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aum-patel1234&label=Profile%20views&color=0e75b6&style=flat" alt="aum-patel1234" /> </p>
@@ -72,11 +57,14 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/aum-patel-48025a2bb" target="_blank">
+  <a href="https://www.linkedin.com/in/aum-patel-48025a2bb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="aumpatel131@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+ <a href="mailto:aumpatel131@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+
   </a>
 </div>
 
@@ -84,6 +72,5 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aum-Patel1234/Aum-Patel1234/output/snake.svg" alt="Snake animation" />
 
 ###
