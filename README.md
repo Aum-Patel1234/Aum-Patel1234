@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aum-Patel1234/](https://github.com/Aum-Patel1234/)
 
-- 💬 Ask me about **flutter,java,maths,chess**
+- 💬 Ask me about **Maths,Java,Flutter,Chess**
 
 ###
 
