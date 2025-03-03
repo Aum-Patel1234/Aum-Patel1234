@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aum-patel1234&label=Profile%20views&color=0e75b6&style=flat" alt="aum-patel1234" /> </p>
 
-- 🔭 I’m currently working on [GamersHub](https://github.com/Aum-Patel1234/GamersHub)
-
 - 🌱 I’m currently learning **Machine Learning and backend technologies like node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aum-Patel1234/](https://github.com/Aum-Patel1234/)
